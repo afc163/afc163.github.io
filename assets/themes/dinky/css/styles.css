@@ -41,8 +41,11 @@ h1, h2, h3, h4, h5, h6 {
     margin:36px 0 10px;
 }
 
-.posts h2 {
+.post-title {
     margin-top:62px;
+}
+.post-date {
+    color:#777;
 }
 
 p, ul, ol, table, dl {
