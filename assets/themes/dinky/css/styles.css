@@ -41,6 +41,10 @@ h1, h2, h3, h4, h5, h6 {
     margin:36px 0 10px;
 }
 
+.posts h2 {
+    margin-top:62px;
+}
+
 p, ul, ol, table, dl {
     margin:0 0 22px;
 }
@@ -51,7 +55,7 @@ h1, h2, h3 {
     font-weight: normal;
 }
 
-h1,h2, h3 {
+h1, h2, h3 {
     display: block;
     border-bottom: 1px solid #ccc;
     padding-bottom: 5px;	
@@ -296,9 +300,10 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-    width:650px;
-    float:right;
-    padding-bottom:50px;
+    float: left;
+    padding-bottom: 50px;
+    padding-left: 300px;
+    width: 60%;
 }
 
 
