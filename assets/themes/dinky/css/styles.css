@@ -232,8 +232,8 @@ h1.header {
     margin-top: 0;
 }
 
-
 h1.header, a.header, a.name, header a{
+    color: #EFB4B4;
 }
 
 a.header {
