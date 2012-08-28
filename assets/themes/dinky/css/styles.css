@@ -97,8 +97,7 @@ strong {
 }
 
 ul li {
-    list-style: inside;
-    padding-left: 25px;
+    list-style: none;
 }
 
 ol li {
