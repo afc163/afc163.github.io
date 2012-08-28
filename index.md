@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <ul class="posts">
   {% for post in site.posts %}
     <li>
