@@ -42,10 +42,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-title {
-    margin-top:62px;
+    margin-top: 62px;
+    font-size: 30px;    
 }
 .post-date {
-    color:#777;
+    color: #777;
+    margin-bottom: 20px;
 }
 
 p, ul, ol, table, dl {
@@ -60,7 +62,6 @@ h1, h2, h3 {
 
 h1, h2, h3 {
     display: block;
-    border-bottom: 1px solid #ccc;
     padding-bottom: 5px;	
 }
 
