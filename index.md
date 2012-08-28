@@ -7,7 +7,7 @@ layout: default
     <li>
       <h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
       <span>{{ post.date | date_to_string }}</span>
-      {{ content }}
+      {{ post.content }}
     </li>
   {% endfor %}
 </ul>
