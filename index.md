@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 足跡偏右
 ---
 
 <ul class="posts">
