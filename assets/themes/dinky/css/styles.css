@@ -152,9 +152,7 @@ img {
     position: relative;
     margin: 0 auto;
     max-width: 650px;
-    padding: 5px;
     margin: 10px 0 32px 0;
-    border: 1px solid #ccc;
 }
 
 
@@ -408,4 +406,8 @@ footer {
         font-size:12pt;
         color:#444;
     }
+}
+
+#disqus_thread {
+    margin-top: 30px;
 }
