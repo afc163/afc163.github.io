@@ -79,7 +79,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : duoshuo
+    duoshuo :
+      short_name : pianyou
     disqus :
       short_name : pianyou
     livefyre :
